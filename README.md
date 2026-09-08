@@ -33,7 +33,6 @@ An interactive Machine Learning web app built with Streamlit that predicts the l
   - Trained model (.pkl)
   - Model metrics (.csv)
 
----
 
 
 
