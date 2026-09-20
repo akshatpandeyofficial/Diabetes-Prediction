@@ -36,5 +36,3 @@ An interactive Machine Learning web app built with Streamlit that predicts the l
 
 
 
-
-
